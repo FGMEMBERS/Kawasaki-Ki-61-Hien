@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList> 
+
+  <path>revi.ac</path>
+
+  <animation>
+    <object-name>base</object-name>
+    <object-name>body</object-name>
+    <object-name>lensbody</object-name>
+    <object-name>refrectorholder</object-name>
+    <object-name>crosshair</object-name>
+    <object-name>cushion</object-name>
+    
+    <object-name>reflector</object-name>
+    <object-name>lens</object-name>
+    <object-name>sunshade</object-name>
+  </animation>
+
+  <!-- working for Rembrandt -->
+  <effect>
+    <inherits-from>Aircraft/Kawasaki-Ki-61-Hien/Models/Effects/Glass/glass</inherits-from>
+    <object-name>reflector</object-name>
+    <object-name>lens</object-name>
+    <object-name>sunshade</object-name>
+  </effect>
+  
+  <animation>
+    <type>material</type>
+    <object-name>crosshair</object-name>
+    <emission>
+      <factor-prop>/systems/electrical/outputs/instrument-lights</factor-prop>
+      <red>   0.50 </red>
+      <green> 0.25 </green>
+      <blue>  0.25 </blue>
+    </emission>
+  </animation>
+
+</PropertyList>

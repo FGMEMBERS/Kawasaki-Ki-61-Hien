@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <!-- Cranking effects -->
+  <!-- Left -->
+  <model>
+    <path>Aircraft/Kawasaki-Ki-61-Hien/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -3.21022 </x-m>
+      <y-m> -0.45340 </y-m>
+      <z-m>  0.00998 </z-m>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/Kawasaki-Ki-61-Hien/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -3.04022 </x-m>
+      <y-m> -0.45340 </y-m>
+      <z-m>  0.00998 </z-m>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/Kawasaki-Ki-61-Hien/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -2.86650 </x-m>
+      <y-m> -0.45309 </y-m>
+      <z-m>  0.00992 </z-m>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/Kawasaki-Ki-61-Hien/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -2.67650 </x-m>
+      <y-m> -0.45309 </y-m>
+      <z-m>  0.00992 </z-m>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/Kawasaki-Ki-61-Hien/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -2.47950 </x-m>
+      <y-m> -0.45309 </y-m>
+      <z-m>  0.00992 </z-m>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/Kawasaki-Ki-61-Hien/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -2.29250 </x-m>
+      <y-m> -0.45309 </y-m>
+      <z-m>  0.00992 </z-m>
+    </offsets>
+  </model>
+
+  <!-- Right -->
+  <model>
+    <path>Aircraft/Kawasaki-Ki-61-Hien/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -3.21022 </x-m>
+      <y-m>  0.45340 </y-m>
+      <z-m>  0.00998 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/Kawasaki-Ki-61-Hien/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -3.04022 </x-m>
+      <y-m>  0.45340 </y-m>
+      <z-m>  0.00998 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/Kawasaki-Ki-61-Hien/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -2.86650 </x-m>
+      <y-m>  0.45309 </y-m>
+      <z-m>  0.00992 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/Kawasaki-Ki-61-Hien/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -2.67650 </x-m>
+      <y-m>  0.45309 </y-m>
+      <z-m>  0.00992 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/Kawasaki-Ki-61-Hien/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -2.47950 </x-m>
+      <y-m>  0.45309 </y-m>
+      <z-m>  0.00992 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/Kawasaki-Ki-61-Hien/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -2.29250 </x-m>
+      <y-m>  0.45309 </y-m>
+      <z-m>  0.00992 </z-m>
+    </offsets>
+  </model>
+  
+</PropertyList>
