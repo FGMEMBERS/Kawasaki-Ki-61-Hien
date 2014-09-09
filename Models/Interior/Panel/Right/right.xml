@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <path>right.ac</path>
+
+  <animation>
+    <!-- Objets opaques -->
+    <object-name>right</object-name>
+
+    <!-- Objets transparents -->
+  </animation>
+
+  <model>
+    <path>Aircraft/Kawasaki-Ki-61-Hien/Models/Interior/Panel/Instruments/info/right.xml</path>
+  </model>
+  
+  <!-- FLAPS -->
+  <model>
+    <path>Aircraft/Kawasaki-Ki-61-Hien/Models/Interior/Panel/Right/Instruments/flaps/flaps.xml</path>
+    <offsets>
+      <x-m>  0.00238 </x-m>
+      <y-m> -0.07138 </y-m>
+      <z-m>  0.06191 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- FULE GAUGE -->
+  <model>
+    <path>Aircraft/Kawasaki-Ki-61-Hien/Models/Interior/Panel/Right/Instruments/fuel/fuel.xml</path>
+    <offsets>
+      <x-m> -0.002 </x-m>
+      <y-m>  0.016 </y-m>
+      <z-m> -0.008 </z-m>
+    </offsets>
+  </model>
+  
+</PropertyList>
