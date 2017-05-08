@@ -17,6 +17,20 @@
       <model type="int">   4 </model>
     </rating>
 
+    <tags>
+      <tag>kawasaki</tag>
+      <tag>low-wing</tag>
+      <tag>tail-dragger</tag>
+      <tag>piston</tag>
+      <tag>single-engine</tag>
+      <tag>fighter</tag>
+      <tag>retractable-gear</tag>
+      <tag>supercharged</tag>
+      <tag>1940s</tag>
+      <tag>ww2</tag>
+    </tags>
+     
+
   </sim>
 
 </PropertyList>
